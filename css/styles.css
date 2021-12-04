@@ -153,4 +153,12 @@ color: white;
    transform: rotateZ(0);
    width: 60%;
  }
+ #pricing{
+   padding:50px;
+   text-align: center;
+ }
+ .presslogo{
+   width: 25%;
+   margin: 10px 20px 10px 20px;
+ }
 }
